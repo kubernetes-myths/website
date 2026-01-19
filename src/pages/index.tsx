@@ -118,7 +118,7 @@ export default function Home(): JSX.Element {
               border: "1px solid #d0ddff",
             }}
           >
-            👁️ Impressions: 317,153
+            👁️ Impressions: 445,037
 
           </div>
 
@@ -134,7 +134,7 @@ export default function Home(): JSX.Element {
               border: "1px solid #d0ddff",
             }}
           >
-            🌐 Members reached: 86,342
+            🌐 Members reached: 97,168
 
           </div>
 
@@ -150,7 +150,7 @@ export default function Home(): JSX.Element {
               border: "1px solid #d0ddff",
             }}
           >
-            👍 Reactions: 3,984
+            👍 Reactions: 4,584
           </div>
 
           {/* Total Visitors */}
@@ -165,7 +165,7 @@ export default function Home(): JSX.Element {
               border: "1px solid #d0ddff",
             }}
           >
-            💾 Total Saves: 2,026
+            💾 Total Saves: 2,246
 
           </div>
         </div>

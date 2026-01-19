@@ -153,7 +153,7 @@ These myths touch on the fundamental architecture and primitives of Kubernetes.
 
 ### SRE
 - [Myth: Kubernetes Guarantees Application Self-Healing](k8s-domain-myths/sre-myths/Kubernetes-Guarantees-Application-Self-Healing)
-
+- [Myth: Pod Disruption Budgets(PDB) Guarantee Availability](k8s-domain-myths/sre-myths/Pod-Disruption-Budgets-Guarantee-Availability)
 
 
 ---
