@@ -130,6 +130,7 @@ These myths touch on the fundamental architecture and primitives of Kubernetes.
 - [Myth: A Container Image Digest Uniquely Identifies One Image](k8s-ecosystem-myths/container-image-myths/A_Container_Image_Digest_Uniquely_Identifies_One_Image)
 - [Myth: Docker always supports multi-architecture image builds](k8s-ecosystem-myths/container-image-myths/Docker_always_supports_multi-architecture_image_builds)
 - [Myth: Dockerfile COPY preserves file ownership and permissions from the host](k8s-ecosystem-myths/container-image-myths/Dockerfile-COPY-preserves-file-ownership-and-permissions-from-the-host)
+- [Myth: Distroless images do not use any Linux distribution](k8s-ecosystem-myths/container-image-myths/Distroless_images_do_not_use_any_Linux_distribution)
 
 
 ### Container Registry
