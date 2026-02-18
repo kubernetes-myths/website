@@ -151,6 +151,7 @@ These myths touch on the fundamental architecture and primitives of Kubernetes.
 ### DevOps
 - [Myth: Complete application can be rolled back in Kubernetes](k8s-domain-myths/devops-myths/Complete_application_can_be_rolled_back_in_Kubernetes)
 - [Myth: The order of Kubernetes resource deployment does not matter](k8s-domain-myths/devops-myths/The-order-of-Kubernetes-resource-deployment-does-not-matter) 
+- [Myth: Configuration Can Be Injected at Any Time Into a Running Pod](k8s-domain-myths/devops-myths/Configuration-Can-Be-Injected-at-Any-Time-Into-a-Running-Pod)
 
 ### SRE
 - [Myth: Kubernetes Guarantees Application Self-Healing](k8s-domain-myths/sre-myths/Kubernetes-Guarantees-Application-Self-Healing)
