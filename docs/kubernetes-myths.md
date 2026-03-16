@@ -85,6 +85,7 @@ These myths touch on the fundamental architecture and primitives of Kubernetes.
 - [Myth: Kubernetes Has a Concept of Node Anti-Affinity](k8s-core-myths/scheduling-myths/Kubernetes_Has_a_Concept_of_Node_Anti-Affinity)
 - [Myth: Kubernetes Scheduler Considers Resource Limits for Scheduling](k8s-core-myths/scheduling-myths/Kubernetes_Scheduler_Considers_Resource_Limits_for_Scheduling)
 - [Myth: Pod memory requests are only used for scheduling](k8s-core-myths/scheduling-myths/Pod_memory_requests_are_only_used_for_scheduling)
+- [Myth: Pods With Tolerations Always Get Scheduled on Tainted Nodes](k8s-core-myths/scheduling-myths/Pods-With-Tolerations-Always-Get-Scheduled-on-Tainted-Nodes)  
 
 
 ### Storage
