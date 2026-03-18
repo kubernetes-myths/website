@@ -72,6 +72,7 @@ These myths touch on the fundamental architecture and primitives of Kubernetes.
 - [Myth: Deployment Supports All Pod Restart Policies](k8s-core-myths/workload-myths/Deployment_Supports_All_Pod_Restart_Policies)
 - [Myth: K8s Injects Svc Info Into A Pods Env Var](k8s-core-myths/workload-myths/K8s_Injects_Svc_Info_Into_A_Pods_Env_Var)
 - [Myth: Kubernetes Automatically Deletes Old ReplicaSets](k8s-core-myths/workload-myths/Kubernetes-Automatically-Deletes-Old-ReplicaSets)
+- [Myth: Deployment is created by the controller-manager](k8s-core-myths/workload-myths/Deployment-is-created-by-the-controller-manager)  
 
 ### Networking
 - [Myth: ClusterIP Service is Only for Internal Traffic](k8s-core-myths/networking-myths/ClusterIP_Service_is_Only_for_Internal_Traffic)
