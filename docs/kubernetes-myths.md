@@ -87,7 +87,7 @@ These myths touch on the fundamental architecture and primitives of Kubernetes.
 - [Myth: Kubernetes Scheduler Considers Resource Limits for Scheduling](k8s-core-myths/scheduling-myths/Kubernetes_Scheduler_Considers_Resource_Limits_for_Scheduling)
 - [Myth: Pod memory requests are only used for scheduling](k8s-core-myths/scheduling-myths/Pod_memory_requests_are_only_used_for_scheduling)
 - [Myth: Pods With Tolerations Always Get Scheduled on Tainted Nodes](k8s-core-myths/scheduling-myths/Pods-With-Tolerations-Always-Get-Scheduled-on-Tainted-Nodes)  
-
+- [Myh: Scheduler Calculates Pod Request by Adding All Container Requests](k8s-core-myths/scheduling-myths/Scheduler-Calculates-Pod-Request-by-Adding-All-Container-Requests)
 
 ### Storage
 - [Myth: Kubernetes Cluster Can Have Only One Default StorageClass](k8s-core-myths/storage-myths/Kubernetes_Cluster_Can_Have_Only_One_Default_StorageClass)
